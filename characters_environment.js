@@ -24,7 +24,7 @@ var gameConfig={
   initialLifes: 4,
 
   // Velocidad de movimiento del personaje
-  moveSpeed: 5,
+  moveSpeed: 4,
   enemyMoveSpeed: 1,
 
   // Gravedad y velocidad de salto para todos los personajes
